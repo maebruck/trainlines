@@ -1,0 +1,347 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-10-26T15:08:15Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/22926339",
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "maxspeed": "40 mph",
+        "name": "West Coast Main Line",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "ECA1",
+        "source": "landsat",
+        "usage": "main",
+        "voltage": "25000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.659664,
+            55.6910012
+          ],
+          [
+            -3.6598314,
+            55.6909595
+          ],
+          [
+            -3.6602024,
+            55.6908571
+          ],
+          [
+            -3.6604911,
+            55.6907564
+          ],
+          [
+            -3.6606802,
+            55.690671
+          ],
+          [
+            -3.6608684,
+            55.6905731
+          ],
+          [
+            -3.6610325,
+            55.6904751
+          ],
+          [
+            -3.6612274,
+            55.6903463
+          ],
+          [
+            -3.6614237,
+            55.6901868
+          ],
+          [
+            -3.6615224,
+            55.6900896
+          ],
+          [
+            -3.6616227,
+            55.6899908
+          ],
+          [
+            -3.6617176,
+            55.6898682
+          ],
+          [
+            -3.6617952,
+            55.6897387
+          ],
+          [
+            -3.6618644,
+            55.6895832
+          ],
+          [
+            -3.6619105,
+            55.6894195
+          ],
+          [
+            -3.6619301,
+            55.6892898
+          ],
+          [
+            -3.6619343,
+            55.6891694
+          ],
+          [
+            -3.6619261,
+            55.6890563
+          ],
+          [
+            -3.6618965,
+            55.688914
+          ],
+          [
+            -3.661858,
+            55.6887406
+          ]
+        ]
+      },
+      "id": "way/22926339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/292188905",
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "maxspeed": "40 mph",
+        "name": "West Coast Main Line",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "ECA1",
+        "source": "landsat",
+        "usage": "main",
+        "voltage": "25000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.661858,
+            55.6887406
+          ],
+          [
+            -3.6619446,
+            55.688962
+          ],
+          [
+            -3.6619769,
+            55.6890735
+          ],
+          [
+            -3.6619912,
+            55.6891713
+          ],
+          [
+            -3.6619905,
+            55.6892936
+          ],
+          [
+            -3.6619716,
+            55.6894174
+          ],
+          [
+            -3.6619234,
+            55.6895869
+          ],
+          [
+            -3.6618582,
+            55.6897433
+          ],
+          [
+            -3.661777,
+            55.68988
+          ],
+          [
+            -3.6616793,
+            55.6900035
+          ],
+          [
+            -3.661579,
+            55.6901047
+          ],
+          [
+            -3.661479,
+            55.6902036
+          ],
+          [
+            -3.6612847,
+            55.6903625
+          ],
+          [
+            -3.6610821,
+            55.6905031
+          ],
+          [
+            -3.6609099,
+            55.6906
+          ],
+          [
+            -3.6607124,
+            55.6907004
+          ],
+          [
+            -3.6605327,
+            55.6907813
+          ],
+          [
+            -3.66027,
+            55.6908734
+          ],
+          [
+            -3.6598989,
+            55.6909757
+          ],
+          [
+            -3.6597316,
+            55.6910175
+          ]
+        ]
+      },
+      "id": "way/292188905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/384634728",
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "maxspeed": "40 mph",
+        "name": "West Coast Main Line",
+        "passenger_lines": "1",
+        "railway": "rail",
+        "ref": "ECA1",
+        "source": "landsat",
+        "usage": "main",
+        "voltage": "25000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.661858,
+            55.6887406
+          ],
+          [
+            -3.661783,
+            55.6885905
+          ],
+          [
+            -3.6616911,
+            55.6884579
+          ],
+          [
+            -3.6615557,
+            55.688302
+          ],
+          [
+            -3.6613965,
+            55.6881423
+          ],
+          [
+            -3.661214,
+            55.6879782
+          ],
+          [
+            -3.6610048,
+            55.6878248
+          ],
+          [
+            -3.6602424,
+            55.6872729
+          ]
+        ]
+      },
+      "id": "way/384634728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/653659624",
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "maxspeed": "40 mph",
+        "name": "West Coast Main Line",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "ECA1",
+        "source": "landsat",
+        "usage": "main",
+        "voltage": "25000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.6597316,
+            55.6910175
+          ],
+          [
+            -3.6585494,
+            55.6912834
+          ],
+          [
+            -3.6554139,
+            55.6919792
+          ],
+          [
+            -3.6539706,
+            55.6923002
+          ]
+        ]
+      },
+      "id": "way/653659624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/653659625",
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "maxspeed": "40 mph",
+        "name": "West Coast Main Line",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "ECA1",
+        "source": "landsat",
+        "usage": "main",
+        "voltage": "25000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.6544464,
+            55.6921577
+          ],
+          [
+            -3.6553463,
+            55.6919629
+          ],
+          [
+            -3.6584818,
+            55.6912671
+          ],
+          [
+            -3.659664,
+            55.6910012
+          ]
+        ]
+      },
+      "id": "way/653659625"
+    }
+  ]
+}
