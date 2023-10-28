@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"id":"way/89001048","type":"Feature","properties":{"@id":"way/89001048","electrified":"no","gauge":"1435","maxspeed":"40 mph","operator":"Network Rail","railway":"rail","service":"crossover"},"geometry":{"coordinates":[[-4.2146459,57.4821711],[-4.2154563,57.4821106],[-4.2158023,57.4820832],[-4.2163846,57.4820328]],"type":"LineString"}}]}

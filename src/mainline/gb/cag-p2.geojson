@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-10-25T20:34:43Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173343553",
+        "electrified": "no",
+        "gauge": "1435",
+        "maxspeed": "40 mph",
+        "name": "Carbridge Loop",
+        "operator": "Network Rail",
+        "railway": "rail",
+        "service": "siding"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.8248126,
+            57.2778862
+          ],
+          [
+            -3.8263505,
+            57.2786282
+          ],
+          [
+            -3.8277018,
+            57.2792805
+          ],
+          [
+            -3.8295696,
+            57.2801903
+          ],
+          [
+            -3.8300806,
+            57.2804371
+          ]
+        ]
+      },
+      "id": "way/173343553"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-10-27T17:06:45Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/312068368",
+        "gauge": "1435",
+        "loading_gauge": "W6A, W7, W8",
+        "maxspeed": "50 mph",
+        "name": "Midland Main Line",
+        "railway": "rail",
+        "ref": "TJC1",
+        "ref:lor": "LN804",
+        "usage": "main"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.5112549,
+            53.3334151
+          ],
+          [
+            -1.5101902,
+            53.3341054
+          ]
+        ]
+      },
+      "id": "way/312068368"
+    }
+  ]
+}

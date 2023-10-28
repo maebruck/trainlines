@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-10-27T14:09:52Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/29403578",
+        "bicycle": "no",
+        "name": "Funiculaire de Montmartre",
+        "operator": "RATP",
+        "railway": "funicular",
+        "wheelchair": "yes",
+        "wikidata": "Q99562",
+        "wikipedia": "fr:Funiculaire de Montmartre"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3426992,
+            48.8846951
+          ],
+          [
+            2.342692,
+            48.8847584
+          ],
+          [
+            2.3425943,
+            48.8856199
+          ],
+          [
+            2.3425898,
+            48.8856599
+          ]
+        ]
+      },
+      "id": "way/29403578"
+    }
+  ]
+}

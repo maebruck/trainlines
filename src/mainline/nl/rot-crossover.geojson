@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-10-26T22:14:20Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90752877",
+        "axle_load": "22.5",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "loading_gauge": "TSI_GB",
+        "maxspeed": "40",
+        "name": "Oude Lijn",
+        "operator": "ProRail",
+        "railway": "rail",
+        "railway:atb": "yes",
+        "ref:ProRailID": "2877717.0",
+        "ref:ProRailSpoortak": "555_225AR_83.3",
+        "source": "ProRail",
+        "source:date": "2014-01-03",
+        "usage": "main",
+        "voltage": "1500",
+        "wikidata": "Q801843",
+        "wikipedia": "nl:Spoorlijn Amsterdam - Rotterdam"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.4606937,
+            51.9236776
+          ],
+          [
+            4.4611088,
+            51.9236976
+          ],
+          [
+            4.461228,
+            51.9236997
+          ],
+          [
+            4.4614475,
+            51.9237041
+          ]
+        ]
+      },
+      "id": "way/90752877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/338000369",
+        "axle_load": "22.5",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "loading_gauge": "TSI_GB",
+        "maxspeed": "40",
+        "operator": "ProRail",
+        "railway": "rail",
+        "railway:atb": "yes",
+        "ref:ProRailID": "2877709.0",
+        "ref:ProRailSpoortak": "555_223AR_83.3",
+        "source": "ProRail",
+        "source:date": "2014-01-03",
+        "usage": "main",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.4614475,
+            51.9237041
+          ],
+          [
+            4.4616868,
+            51.9237089
+          ],
+          [
+            4.461815,
+            51.9237122
+          ],
+          [
+            4.4620436,
+            51.923716
+          ]
+        ]
+      },
+      "id": "way/338000369"
+    }
+  ]
+}

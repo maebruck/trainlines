@@ -1,0 +1,241 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-10-27T23:35:25Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/202216028",
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "loading_gauge": "W8",
+        "maxspeed": "75 mph",
+        "name": "Fen Line",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "BGK",
+        "usage": "main",
+        "voltage": "25000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.2466086,
+            52.3480096
+          ],
+          [
+            0.2502758,
+            52.3547558
+          ],
+          [
+            0.2517475,
+            52.3582448
+          ],
+          [
+            0.2523421,
+            52.3600281
+          ],
+          [
+            0.2554859,
+            52.3691504
+          ],
+          [
+            0.2563615,
+            52.3717178
+          ],
+          [
+            0.2567965,
+            52.3730015
+          ],
+          [
+            0.2571178,
+            52.3739242
+          ],
+          [
+            0.2576905,
+            52.3755783
+          ],
+          [
+            0.2582718,
+            52.377315
+          ],
+          [
+            0.2583127,
+            52.3774373
+          ],
+          [
+            0.2590083,
+            52.3794269
+          ],
+          [
+            0.2597021,
+            52.3814714
+          ],
+          [
+            0.2601195,
+            52.3825569
+          ],
+          [
+            0.2603804,
+            52.3830703
+          ]
+        ]
+      },
+      "id": "way/202216028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/202216102",
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "loading_gauge": "W6A, W7, W8, W9",
+        "maxspeed": "50 mph",
+        "name": "Bethnal Green and King's Lynn Line",
+        "railway": "rail",
+        "ref": "BGK",
+        "ref:lor": "EA1161",
+        "tracks": "2",
+        "usage": "main",
+        "voltage": "25000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.262717,
+            52.3868277
+          ],
+          [
+            0.2629046,
+            52.3870753
+          ],
+          [
+            0.2631796,
+            52.3874322
+          ],
+          [
+            0.2637955,
+            52.3881418
+          ],
+          [
+            0.2644938,
+            52.3888609
+          ],
+          [
+            0.2650073,
+            52.3893242
+          ]
+        ]
+      },
+      "id": "way/202216102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/311690539",
+        "alt_name": "Bethnal Green and King's Lynn Line",
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "loading_gauge": "W8",
+        "maxspeed": "50 mph",
+        "name": "Fen Line",
+        "railway": "rail",
+        "ref": "BGK",
+        "usage": "main",
+        "voltage": "25000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.2610489,
+            52.3843856
+          ],
+          [
+            0.2611797,
+            52.3846429
+          ],
+          [
+            0.2615679,
+            52.3852483
+          ]
+        ]
+      },
+      "id": "way/311690539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/671412634",
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "loading_gauge": "W6A, W7, W8, W9",
+        "maxspeed": "50 mph",
+        "name": "Bethnal Green and King's Lynn Line",
+        "railway": "rail",
+        "ref": "BGK",
+        "ref:lor": "EA1161",
+        "tracks": "2",
+        "usage": "main",
+        "voltage": "25000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.2615679,
+            52.3852483
+          ],
+          [
+            0.2621193,
+            52.3860383
+          ],
+          [
+            0.262717,
+            52.3868277
+          ]
+        ]
+      },
+      "id": "way/671412634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1196414288",
+        "alt_name": "Bethnal Green and King's Lynn Line",
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "loading_gauge": "W8",
+        "maxspeed": "50 mph",
+        "name": "Fen Line",
+        "railway": "rail",
+        "ref": "BGK",
+        "usage": "main",
+        "voltage": "25000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.2603804,
+            52.3830703
+          ],
+          [
+            0.2610489,
+            52.3843856
+          ]
+        ]
+      },
+      "id": "way/1196414288"
+    }
+  ]
+}
