@@ -1,0 +1,277 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-10-28T09:58:30Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4755065",
+        "bridge": "yes",
+        "layer": "2",
+        "name": "Seattle Center Monorail",
+        "operator": "Seattle Monorail Services",
+        "railway": "monorail",
+        "usage": "main",
+        "website": "https://www.seattlemonorail.com/",
+        "wikipedia": "en:Seattle Center Monorail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.349406,
+            47.6212918
+          ],
+          [
+            -122.3491781,
+            47.6212957
+          ],
+          [
+            -122.3488119,
+            47.6213053
+          ],
+          [
+            -122.3487299,
+            47.6213048
+          ],
+          [
+            -122.3486509,
+            47.6213017
+          ]
+        ]
+      },
+      "id": "way/4755065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/293623341",
+        "bridge": "viaduct",
+        "layer": "2",
+        "name": "Seattle Center Monorail",
+        "operator": "Seattle Monorail Services",
+        "railway": "monorail",
+        "usage": "main",
+        "website": "https://www.seattlemonorail.com/",
+        "wikipedia": "en:Seattle Center Monorail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.347963,
+            47.6210632
+          ],
+          [
+            -122.3479028,
+            47.6210139
+          ],
+          [
+            -122.3478628,
+            47.6209737
+          ],
+          [
+            -122.3478098,
+            47.6209109
+          ],
+          [
+            -122.3477743,
+            47.6208555
+          ],
+          [
+            -122.3477447,
+            47.6208016
+          ],
+          [
+            -122.3477232,
+            47.6207513
+          ],
+          [
+            -122.3477052,
+            47.6206923
+          ],
+          [
+            -122.3476956,
+            47.6206345
+          ],
+          [
+            -122.3476898,
+            47.6205742
+          ],
+          [
+            -122.347686,
+            47.6205076
+          ],
+          [
+            -122.3476883,
+            47.6200196
+          ],
+          [
+            -122.3476904,
+            47.6196039
+          ],
+          [
+            -122.3476804,
+            47.619399
+          ],
+          [
+            -122.3476428,
+            47.6191941
+          ],
+          [
+            -122.347565,
+            47.6189937
+          ],
+          [
+            -122.347481,
+            47.618848
+          ],
+          [
+            -122.3474116,
+            47.6187501
+          ],
+          [
+            -122.3473411,
+            47.6186644
+          ],
+          [
+            -122.3471832,
+            47.6185087
+          ],
+          [
+            -122.3470016,
+            47.6183688
+          ],
+          [
+            -122.3468151,
+            47.6182457
+          ],
+          [
+            -122.3466062,
+            47.6181212
+          ],
+          [
+            -122.3426752,
+            47.6157974
+          ],
+          [
+            -122.3378645,
+            47.6129519
+          ],
+          [
+            -122.3377408,
+            47.6128723
+          ],
+          [
+            -122.3376188,
+            47.6127792
+          ],
+          [
+            -122.3374976,
+            47.6126664
+          ],
+          [
+            -122.3374186,
+            47.6125848
+          ],
+          [
+            -122.336915,
+            47.6120333
+          ],
+          [
+            -122.3367638,
+            47.6118673
+          ]
+        ]
+      },
+      "id": "way/293623341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/394955906",
+        "name": "Seattle Center Monorail",
+        "operator": "Seattle Monorail Services",
+        "railway": "monorail",
+        "usage": "main",
+        "website": "https://www.seattlemonorail.com/",
+        "wikipedia": "en:Seattle Center Monorail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3499153,
+            47.6212832
+          ],
+          [
+            -122.349615,
+            47.6212883
+          ],
+          [
+            -122.349406,
+            47.6212918
+          ]
+        ]
+      },
+      "id": "way/394955906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/505897789",
+        "name": "Seattle Center Monorail",
+        "operator": "Seattle Monorail Services",
+        "railway": "monorail",
+        "tunnel": "building_passage",
+        "usage": "main",
+        "website": "https://www.seattlemonorail.com/",
+        "wikipedia": "en:Seattle Center Monorail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3486509,
+            47.6213017
+          ],
+          [
+            -122.3485529,
+            47.621292
+          ],
+          [
+            -122.3484568,
+            47.6212762
+          ],
+          [
+            -122.3483633,
+            47.6212543
+          ],
+          [
+            -122.3482732,
+            47.6212267
+          ],
+          [
+            -122.3481874,
+            47.6211934
+          ],
+          [
+            -122.3481066,
+            47.6211548
+          ],
+          [
+            -122.3480316,
+            47.6211113
+          ],
+          [
+            -122.347963,
+            47.6210632
+          ]
+        ]
+      },
+      "id": "way/505897789"
+    }
+  ]
+}
