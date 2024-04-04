@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-04-04T12:38:58Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/821671622",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "level": "-1",
+        "name": "IRT 42nd Street Line",
+        "railway": "subway",
+        "railway:bidirectional": "regular",
+        "railway:track_ref": "4",
+        "railway:track_ref:signals": "MM3S",
+        "tunnel": "yes",
+        "voltage": "625"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9823537,
+            40.7541657
+          ],
+          [
+            -73.9808768,
+            40.7535417
+          ],
+          [
+            -73.980252,
+            40.7533199
+          ],
+          [
+            -73.9794919,
+            40.7529987
+          ],
+          [
+            -73.9782906,
+            40.7524888
+          ]
+        ]
+      },
+      "id": "way/821671622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/983084654",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "level": "-1",
+        "name": "IRT 42nd Street Line",
+        "railway": "subway",
+        "railway:bidirectional": "regular",
+        "railway:track_ref": "4",
+        "railway:track_ref:signals": "MM3S",
+        "tunnel": "yes",
+        "voltage": "625"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9859078,
+            40.7556963
+          ],
+          [
+            -73.9857857,
+            40.7556228
+          ],
+          [
+            -73.9856537,
+            40.7555599
+          ],
+          [
+            -73.984939,
+            40.755258
+          ],
+          [
+            -73.984066,
+            40.7548891
+          ],
+          [
+            -73.9823537,
+            40.7541657
+          ]
+        ]
+      },
+      "id": "way/983084654"
+    }
+  ]
+}
