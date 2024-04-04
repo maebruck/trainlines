@@ -1,0 +1,88 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-04-04T22:02:57Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/335285051",
+        "colour": "yellow",
+        "electrified": "rail",
+        "layer": "-2",
+        "name": "Terminal Shuttle",
+        "railway": "light_rail",
+        "railway:cbtc": "uto",
+        "tunnel": "yes",
+        "usage": "main"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.301127,
+            47.4449196
+          ],
+          [
+            -122.3022506,
+            47.4441709
+          ],
+          [
+            -122.3023694,
+            47.4440647
+          ],
+          [
+            -122.3024337,
+            47.4439887
+          ],
+          [
+            -122.3025024,
+            47.4438857
+          ],
+          [
+            -122.3025546,
+            47.4437659
+          ],
+          [
+            -122.3025888,
+            47.4436225
+          ],
+          [
+            -122.3025973,
+            47.4435223
+          ],
+          [
+            -122.3025917,
+            47.443397
+          ],
+          [
+            -122.3025644,
+            47.4432819
+          ],
+          [
+            -122.302496,
+            47.4431502
+          ],
+          [
+            -122.3024308,
+            47.4430469
+          ],
+          [
+            -122.3023848,
+            47.4429971
+          ],
+          [
+            -122.3022934,
+            47.4429232
+          ],
+          [
+            -122.300677,
+            47.4417979
+          ]
+        ]
+      },
+      "id": "way/335285051"
+    }
+  ]
+}
