@@ -1,0 +1,2460 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-04-05T10:09:15Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4064151",
+        "electrified": "no",
+        "gauge": "1435",
+        "maxspeed": "40 mph",
+        "name": "Edinburgh to Perth via Newburgh",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.1219898,
+            56.2756529
+          ],
+          [
+            -3.1221014,
+            56.2760463
+          ],
+          [
+            -3.1221701,
+            56.2764359
+          ],
+          [
+            -3.1222387,
+            56.2767169
+          ],
+          [
+            -3.1222996,
+            56.276962
+          ],
+          [
+            -3.1224186,
+            56.2773356
+          ],
+          [
+            -3.1225808,
+            56.2778486
+          ],
+          [
+            -3.1228598,
+            56.2786076
+          ],
+          [
+            -3.1228984,
+            56.2786862
+          ],
+          [
+            -3.1230467,
+            56.2790205
+          ],
+          [
+            -3.1231821,
+            56.27927
+          ],
+          [
+            -3.1233713,
+            56.2796135
+          ],
+          [
+            -3.1236097,
+            56.2800074
+          ],
+          [
+            -3.1238655,
+            56.2803901
+          ],
+          [
+            -3.1242954,
+            56.2809735
+          ],
+          [
+            -3.1245269,
+            56.2812583
+          ],
+          [
+            -3.1245779,
+            56.281321
+          ],
+          [
+            -3.124931,
+            56.2817007
+          ],
+          [
+            -3.1251917,
+            56.2819736
+          ],
+          [
+            -3.1263206,
+            56.2830047
+          ],
+          [
+            -3.1275025,
+            56.2838659
+          ],
+          [
+            -3.1289565,
+            56.2849528
+          ],
+          [
+            -3.130534,
+            56.2860705
+          ],
+          [
+            -3.136837,
+            56.2907247
+          ]
+        ]
+      },
+      "id": "way/4064151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4064279",
+        "electrified": "no",
+        "gauge": "1435",
+        "name": "Edinburgh to Perth via Newburgh",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.1812321,
+            56.3286182
+          ],
+          [
+            -3.1818258,
+            56.3289505
+          ]
+        ]
+      },
+      "id": "way/4064279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4064280",
+        "electrified": "no",
+        "gauge": "1435",
+        "name": "Edinburgh to Perth via Newburgh",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "tracks": "1",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.2625048,
+            56.3455836
+          ],
+          [
+            -3.267228,
+            56.3446075
+          ],
+          [
+            -3.2834968,
+            56.3412378
+          ],
+          [
+            -3.2878582,
+            56.3403236
+          ],
+          [
+            -3.2943303,
+            56.3390246
+          ],
+          [
+            -3.3015731,
+            56.3375232
+          ]
+        ]
+      },
+      "id": "way/4064280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4064281",
+        "electrified": "no",
+        "embankment": "yes",
+        "gauge": "1435",
+        "name": "Edinburgh to Perth via Newburgh",
+        "passenger_lines": "1",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "tracks": "1",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.3225061,
+            56.3350817
+          ],
+          [
+            -3.3277152,
+            56.3350825
+          ]
+        ]
+      },
+      "id": "way/4064281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/24048308",
+        "electrified": "no",
+        "gauge": "1435",
+        "name": "Edinburgh to Perth via Newburgh",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.1498591,
+            56.3003541
+          ],
+          [
+            -3.1526967,
+            56.3024985
+          ]
+        ]
+      },
+      "id": "way/24048308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/33265346",
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Edinburgh to Perth via Newburgh",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.136837,
+            56.2907247
+          ],
+          [
+            -3.1369583,
+            56.2908148
+          ]
+        ]
+      },
+      "id": "way/33265346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/33265347",
+        "electrified": "no",
+        "gauge": "1435",
+        "name": "Edinburgh to Perth via Newburgh",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.142671,
+            56.2950404
+          ],
+          [
+            -3.146735,
+            56.2980465
+          ],
+          [
+            -3.1498591,
+            56.3003541
+          ]
+        ]
+      },
+      "id": "way/33265347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/33265380",
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Edinburgh to Perth via Newburgh",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.1526967,
+            56.3024985
+          ],
+          [
+            -3.1529201,
+            56.3026631
+          ]
+        ]
+      },
+      "id": "way/33265380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/33265382",
+        "electrified": "no",
+        "gauge": "1435",
+        "name": "Edinburgh to Perth via Newburgh",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.1529201,
+            56.3026631
+          ],
+          [
+            -3.1543114,
+            56.3037413
+          ],
+          [
+            -3.1556261,
+            56.3047315
+          ],
+          [
+            -3.1559677,
+            56.3050068
+          ],
+          [
+            -3.1564621,
+            56.3054523
+          ]
+        ]
+      },
+      "id": "way/33265382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/53784928",
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Edinburgh to Perth via Newburgh",
+        "passenger_lines": "1",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "tracks": "1",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.4023965,
+            56.3464211
+          ],
+          [
+            -3.4025626,
+            56.3464495
+          ]
+        ]
+      },
+      "id": "way/53784928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/53784929",
+        "electrified": "no",
+        "gauge": "1435",
+        "name": "Edinburgh to Perth via Newburgh",
+        "passenger_lines": "1",
+        "railway": "rail",
+        "ref": "CDC2",
+        "source": "GPS",
+        "tracks": "1",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.4092049,
+            56.3479409
+          ],
+          [
+            -3.4120355,
+            56.3486256
+          ],
+          [
+            -3.4156296,
+            56.349495
+          ],
+          [
+            -3.4197529,
+            56.3505042
+          ],
+          [
+            -3.4212227,
+            56.3508716
+          ],
+          [
+            -3.4225123,
+            56.351194
+          ],
+          [
+            -3.4239492,
+            56.3516182
+          ],
+          [
+            -3.4248854,
+            56.3519796
+          ],
+          [
+            -3.4257289,
+            56.3523528
+          ],
+          [
+            -3.4266219,
+            56.3528351
+          ],
+          [
+            -3.4269969,
+            56.3530571
+          ],
+          [
+            -3.4274361,
+            56.3533503
+          ],
+          [
+            -3.4278088,
+            56.353617
+          ],
+          [
+            -3.4283071,
+            56.3540469
+          ],
+          [
+            -3.428727,
+            56.3544729
+          ]
+        ]
+      },
+      "id": "way/53784929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/99431781",
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Edinburgh to Perth via Newburgh",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "CDC2",
+        "source": "GPS",
+        "tracks": "2",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.4309896,
+            56.3579298
+          ],
+          [
+            -3.4314659,
+            56.3587136
+          ]
+        ]
+      },
+      "id": "way/99431781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/99431784",
+        "electrified": "no",
+        "gauge": "1435",
+        "name": "Edinburgh to Perth via Newburgh",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "CDC2",
+        "source": "GPS",
+        "tracks": "2",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.4314659,
+            56.3587136
+          ],
+          [
+            -3.4317496,
+            56.3591157
+          ],
+          [
+            -3.4322695,
+            56.3599498
+          ],
+          [
+            -3.4324578,
+            56.3602731
+          ],
+          [
+            -3.4326134,
+            56.3606115
+          ],
+          [
+            -3.4327156,
+            56.3608902
+          ],
+          [
+            -3.4327877,
+            56.3611347
+          ],
+          [
+            -3.4328372,
+            56.3614118
+          ],
+          [
+            -3.4328657,
+            56.3617031
+          ],
+          [
+            -3.4328634,
+            56.3618558
+          ]
+        ]
+      },
+      "id": "way/99431784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/115618425",
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Edinburgh to Perth via Newburgh",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.2409134,
+            56.3492613
+          ],
+          [
+            -3.2410724,
+            56.3492616
+          ]
+        ]
+      },
+      "id": "way/115618425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/115618433",
+        "electrified": "no",
+        "gauge": "1435",
+        "name": "Edinburgh to Perth via Newburgh",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "tracks": "1",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.2410724,
+            56.3492616
+          ],
+          [
+            -3.2426223,
+            56.3492186
+          ],
+          [
+            -3.24362,
+            56.3491669
+          ],
+          [
+            -3.2446817,
+            56.3490985
+          ],
+          [
+            -3.2454021,
+            56.3490212
+          ],
+          [
+            -3.2462137,
+            56.3489099
+          ],
+          [
+            -3.2470925,
+            56.348756
+          ],
+          [
+            -3.2488103,
+            56.3484155
+          ],
+          [
+            -3.2507271,
+            56.3480334
+          ],
+          [
+            -3.2572168,
+            56.346674
+          ]
+        ]
+      },
+      "id": "way/115618433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/122937087",
+        "electrified": "no",
+        "gauge": "1435",
+        "name": "Edinburgh to Perth via Newburgh",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.1819028,
+            56.328994
+          ],
+          [
+            -3.1821766,
+            56.3291496
+          ],
+          [
+            -3.1832677,
+            56.3297918
+          ],
+          [
+            -3.185209,
+            56.3308983
+          ],
+          [
+            -3.1863532,
+            56.3314267
+          ],
+          [
+            -3.1871024,
+            56.3317035
+          ],
+          [
+            -3.1878844,
+            56.3319648
+          ],
+          [
+            -3.1883563,
+            56.3321067
+          ],
+          [
+            -3.1888452,
+            56.3322212
+          ],
+          [
+            -3.1898761,
+            56.3324427
+          ],
+          [
+            -3.1911846,
+            56.3326546
+          ],
+          [
+            -3.1923519,
+            56.3328592
+          ],
+          [
+            -3.1935364,
+            56.3331447
+          ],
+          [
+            -3.1945063,
+            56.3334968
+          ],
+          [
+            -3.1962915,
+            56.3341677
+          ],
+          [
+            -3.2015773,
+            56.3362133
+          ],
+          [
+            -3.2102584,
+            56.3395726
+          ],
+          [
+            -3.2109423,
+            56.339836
+          ]
+        ]
+      },
+      "id": "way/122937087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/122937091",
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Edinburgh to Perth via Newburgh",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.2109423,
+            56.339836
+          ],
+          [
+            -3.211506,
+            56.3400491
+          ]
+        ]
+      },
+      "id": "way/122937091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/122937093",
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Edinburgh to Perth via Newburgh",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.1818258,
+            56.3289505
+          ],
+          [
+            -3.1819028,
+            56.328994
+          ]
+        ]
+      },
+      "id": "way/122937093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/122937096",
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Edinburgh to Perth via Newburgh",
+        "passenger_lines": "1",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "tracks": "1",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.3126907,
+            56.3353035
+          ],
+          [
+            -3.3128864,
+            56.3352732
+          ]
+        ]
+      },
+      "id": "way/122937096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/122937098",
+        "electrified": "no",
+        "gauge": "1435",
+        "name": "Edinburgh to Perth via Newburgh",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.1571177,
+            56.3060547
+          ],
+          [
+            -3.1573079,
+            56.3062698
+          ],
+          [
+            -3.1577569,
+            56.3067774
+          ],
+          [
+            -3.1584143,
+            56.3074555
+          ],
+          [
+            -3.1590368,
+            56.3081496
+          ],
+          [
+            -3.1596086,
+            56.3087017
+          ],
+          [
+            -3.1601932,
+            56.3091739
+          ],
+          [
+            -3.1607863,
+            56.3095781
+          ],
+          [
+            -3.1614963,
+            56.3099982
+          ],
+          [
+            -3.1626287,
+            56.3105649
+          ],
+          [
+            -3.1639095,
+            56.3110521
+          ],
+          [
+            -3.1652711,
+            56.3114942
+          ],
+          [
+            -3.1666864,
+            56.3118817
+          ],
+          [
+            -3.170435,
+            56.3128553
+          ],
+          [
+            -3.1720272,
+            56.313284
+          ],
+          [
+            -3.1728476,
+            56.3135441
+          ],
+          [
+            -3.1736143,
+            56.3138363
+          ],
+          [
+            -3.1742888,
+            56.3141533
+          ],
+          [
+            -3.1749112,
+            56.3144544
+          ],
+          [
+            -3.1756243,
+            56.3148725
+          ],
+          [
+            -3.176252,
+            56.3152937
+          ],
+          [
+            -3.1767036,
+            56.3156514
+          ],
+          [
+            -3.177215,
+            56.3160734
+          ],
+          [
+            -3.1775869,
+            56.3164569
+          ],
+          [
+            -3.1778208,
+            56.3167278
+          ],
+          [
+            -3.1781088,
+            56.3171114
+          ],
+          [
+            -3.178367,
+            56.3175117
+          ],
+          [
+            -3.1785389,
+            56.3178644
+          ],
+          [
+            -3.1787033,
+            56.3182213
+          ],
+          [
+            -3.1788394,
+            56.3186458
+          ],
+          [
+            -3.1789121,
+            56.319087
+          ],
+          [
+            -3.1789672,
+            56.3195723
+          ],
+          [
+            -3.1789642,
+            56.3200232
+          ],
+          [
+            -3.1789333,
+            56.3203138
+          ],
+          [
+            -3.1788837,
+            56.320621
+          ],
+          [
+            -3.178718,
+            56.3211009
+          ],
+          [
+            -3.1781686,
+            56.3223684
+          ],
+          [
+            -3.177925,
+            56.3231316
+          ],
+          [
+            -3.1778818,
+            56.3235112
+          ],
+          [
+            -3.1778828,
+            56.3241735
+          ],
+          [
+            -3.1780445,
+            56.3250642
+          ],
+          [
+            -3.1783799,
+            56.3257733
+          ],
+          [
+            -3.178656,
+            56.3262543
+          ],
+          [
+            -3.1791499,
+            56.326846
+          ],
+          [
+            -3.1797532,
+            56.3274871
+          ],
+          [
+            -3.1803795,
+            56.3280313
+          ],
+          [
+            -3.180756,
+            56.328306
+          ],
+          [
+            -3.1812321,
+            56.3286182
+          ]
+        ]
+      },
+      "id": "way/122937098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/122937103",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Edinburgh to Perth via Newburgh",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.1564621,
+            56.3054523
+          ],
+          [
+            -3.1565676,
+            56.3055449
+          ]
+        ]
+      },
+      "id": "way/122937103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/122937106",
+        "electrified": "no",
+        "embankment": "yes",
+        "gauge": "1435",
+        "name": "Edinburgh to Perth via Newburgh",
+        "passenger_lines": "1",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "tracks": "1",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.3128864,
+            56.3352732
+          ],
+          [
+            -3.3132215,
+            56.3352227
+          ],
+          [
+            -3.3135745,
+            56.3351775
+          ],
+          [
+            -3.3139323,
+            56.3351446
+          ],
+          [
+            -3.3143058,
+            56.33512
+          ]
+        ]
+      },
+      "id": "way/122937106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/252952348",
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Edinburgh to Perth via Newburgh",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "CDC2",
+        "source": "GPS",
+        "tracks": "2",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.4328145,
+            56.3618556
+          ],
+          [
+            -3.4328116,
+            56.3619263
+          ]
+        ]
+      },
+      "id": "way/252952348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/252952349",
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Edinburgh to Perth via Newburgh",
+        "passenger_lines": "1",
+        "railway": "rail",
+        "ref": "CDC2",
+        "source": "GPS",
+        "tracks": "1",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.428727,
+            56.3544729
+          ],
+          [
+            -3.4288119,
+            56.3545808
+          ]
+        ]
+      },
+      "id": "way/252952349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/252952350",
+        "electrified": "no",
+        "gauge": "1435",
+        "name": "Edinburgh to Perth via Newburgh",
+        "passenger_lines": "1",
+        "railway": "rail",
+        "ref": "CDC2",
+        "source": "GPS",
+        "tracks": "1",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.4288119,
+            56.3545808
+          ],
+          [
+            -3.4291546,
+            56.3550124
+          ],
+          [
+            -3.4296283,
+            56.3557184
+          ],
+          [
+            -3.4302068,
+            56.3566781
+          ]
+        ]
+      },
+      "id": "way/252952350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/252952351",
+        "electrified": "no",
+        "gauge": "1435",
+        "name": "Edinburgh to Perth via Newburgh",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "CDC2",
+        "source": "GPS",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.4328614,
+            56.3619271
+          ],
+          [
+            -3.4328498,
+            56.3621856
+          ],
+          [
+            -3.4327878,
+            56.3624666
+          ],
+          [
+            -3.4326762,
+            56.362842
+          ],
+          [
+            -3.4325423,
+            56.3631595
+          ],
+          [
+            -3.4323574,
+            56.3635128
+          ],
+          [
+            -3.4321731,
+            56.3637861
+          ],
+          [
+            -3.4319336,
+            56.3640681
+          ],
+          [
+            -3.4316656,
+            56.3643173
+          ],
+          [
+            -3.4314238,
+            56.3645035
+          ]
+        ]
+      },
+      "id": "way/252952351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/253039533",
+        "electrified": "no",
+        "embankment": "yes",
+        "gauge": "1435",
+        "name": "Edinburgh to Perth via Newburgh",
+        "passenger_lines": "1",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "tracks": "1",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.3419392,
+            56.335443
+          ],
+          [
+            -3.3442162,
+            56.3358381
+          ],
+          [
+            -3.345351,
+            56.3360443
+          ],
+          [
+            -3.3505766,
+            56.3370013
+          ]
+        ]
+      },
+      "id": "way/253039533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/253039534",
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Edinburgh to Perth via Newburgh",
+        "passenger_lines": "1",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "tracks": "1",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.3143058,
+            56.33512
+          ],
+          [
+            -3.314461,
+            56.3351098
+          ]
+        ]
+      },
+      "id": "way/253039534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/253039535",
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Edinburgh to Perth via Newburgh",
+        "passenger_lines": "1",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "tracks": "1",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.3222957,
+            56.3350817
+          ],
+          [
+            -3.3225061,
+            56.3350817
+          ]
+        ]
+      },
+      "id": "way/253039535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/253039536",
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Edinburgh to Perth via Newburgh",
+        "passenger_lines": "1",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "tracks": "1",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.3417605,
+            56.3354148
+          ],
+          [
+            -3.3419392,
+            56.335443
+          ]
+        ]
+      },
+      "id": "way/253039536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/253039537",
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Edinburgh to Perth via Newburgh",
+        "passenger_lines": "1",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "tracks": "1",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.3277152,
+            56.3350825
+          ],
+          [
+            -3.3279092,
+            56.3350808
+          ]
+        ]
+      },
+      "id": "way/253039537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/253039538",
+        "electrified": "no",
+        "embankment": "yes",
+        "gauge": "1435",
+        "name": "Edinburgh to Perth via Newburgh",
+        "passenger_lines": "1",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "tracks": "1",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.314461,
+            56.3351098
+          ],
+          [
+            -3.3148524,
+            56.335093
+          ],
+          [
+            -3.3153408,
+            56.3350848
+          ],
+          [
+            -3.3222957,
+            56.3350817
+          ]
+        ]
+      },
+      "id": "way/253039538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/253039539",
+        "electrified": "no",
+        "embankment": "yes",
+        "gauge": "1435",
+        "name": "Edinburgh to Perth via Newburgh",
+        "passenger_lines": "1",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "tracks": "1",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.3279092,
+            56.3350808
+          ],
+          [
+            -3.3336048,
+            56.3350672
+          ],
+          [
+            -3.3355499,
+            56.3350574
+          ],
+          [
+            -3.3370641,
+            56.3350641
+          ],
+          [
+            -3.3385367,
+            56.3351111
+          ],
+          [
+            -3.3396774,
+            56.3351797
+          ],
+          [
+            -3.3404057,
+            56.335249
+          ],
+          [
+            -3.3410938,
+            56.3353266
+          ],
+          [
+            -3.3417605,
+            56.3354148
+          ]
+        ]
+      },
+      "id": "way/253039539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/253091282",
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Edinburgh to Perth via Newburgh",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "tracks": "1",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.3015731,
+            56.3375232
+          ],
+          [
+            -3.3016968,
+            56.3374993
+          ]
+        ]
+      },
+      "id": "way/253091282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/253091283",
+        "electrified": "no",
+        "embankment": "yes",
+        "gauge": "1435",
+        "name": "Edinburgh to Perth via Newburgh",
+        "passenger_lines": "1",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "tracks": "1",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.3016968,
+            56.3374993
+          ],
+          [
+            -3.3053189,
+            56.3367554
+          ],
+          [
+            -3.3103756,
+            56.3357225
+          ],
+          [
+            -3.3109778,
+            56.3355996
+          ],
+          [
+            -3.3115964,
+            56.3354911
+          ],
+          [
+            -3.3120546,
+            56.3354094
+          ],
+          [
+            -3.3126907,
+            56.3353035
+          ]
+        ]
+      },
+      "id": "way/253091283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/253893787",
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Edinburgh to Perth via Newburgh",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "tracks": "1",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.2572168,
+            56.346674
+          ],
+          [
+            -3.2573507,
+            56.3466475
+          ]
+        ]
+      },
+      "id": "way/253893787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/257563702",
+        "electrified": "no",
+        "gauge": "1435",
+        "name": "Edinburgh to Perth via Newburgh",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.211506,
+            56.3400491
+          ],
+          [
+            -3.2118603,
+            56.3401854
+          ],
+          [
+            -3.2165545,
+            56.3419904
+          ],
+          [
+            -3.2179419,
+            56.3425781
+          ],
+          [
+            -3.2184202,
+            56.3428204
+          ],
+          [
+            -3.218852,
+            56.3430523
+          ],
+          [
+            -3.2192436,
+            56.3432857
+          ],
+          [
+            -3.2197318,
+            56.3435978
+          ],
+          [
+            -3.2200214,
+            56.3438134
+          ],
+          [
+            -3.220523,
+            56.3442162
+          ],
+          [
+            -3.2209682,
+            56.3446295
+          ],
+          [
+            -3.2218909,
+            56.34556
+          ],
+          [
+            -3.2222691,
+            56.34589
+          ],
+          [
+            -3.2225827,
+            56.3461275
+          ],
+          [
+            -3.2230611,
+            56.3464253
+          ],
+          [
+            -3.223565,
+            56.346709
+          ],
+          [
+            -3.224547,
+            56.347146
+          ],
+          [
+            -3.2257799,
+            56.3475149
+          ],
+          [
+            -3.2267385,
+            56.3477206
+          ],
+          [
+            -3.2279084,
+            56.3478874
+          ],
+          [
+            -3.2380003,
+            56.3490877
+          ],
+          [
+            -3.2385535,
+            56.3491449
+          ],
+          [
+            -3.2392016,
+            56.349194
+          ],
+          [
+            -3.2394581,
+            56.3492084
+          ],
+          [
+            -3.240098,
+            56.3492444
+          ],
+          [
+            -3.2409134,
+            56.3492613
+          ]
+        ]
+      },
+      "id": "way/257563702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/312411085",
+        "electrified": "no",
+        "gauge": "1435",
+        "maxspeed": "40 mph",
+        "name": "Edinburgh to Perth via Newburgh",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.1219898,
+            56.2756529
+          ],
+          [
+            -3.1218539,
+            56.2751836
+          ]
+        ]
+      },
+      "id": "way/312411085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/430293218",
+        "electrified": "no",
+        "gauge": "1435",
+        "name": "Edinburgh to Perth via Newburgh",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "CDC2",
+        "source": "GPS",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.4328116,
+            56.3619263
+          ],
+          [
+            -3.4327966,
+            56.3621834
+          ],
+          [
+            -3.4327349,
+            56.3624624
+          ],
+          [
+            -3.4326238,
+            56.3628363
+          ],
+          [
+            -3.4324907,
+            56.363152
+          ],
+          [
+            -3.4323067,
+            56.3635035
+          ],
+          [
+            -3.4321201,
+            56.3637737
+          ],
+          [
+            -3.4318828,
+            56.3640531
+          ],
+          [
+            -3.4316165,
+            56.3643008
+          ],
+          [
+            -3.431367,
+            56.3645128
+          ]
+        ]
+      },
+      "id": "way/430293218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/430483108",
+        "electrified": "no",
+        "gauge": "1435",
+        "name": "Edinburgh to Perth via Newburgh",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "CDC2",
+        "source": "GPS",
+        "tracks": "2",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.4314161,
+            56.3587231
+          ],
+          [
+            -3.4317037,
+            56.3591251
+          ],
+          [
+            -3.4322231,
+            56.3599584
+          ],
+          [
+            -3.4324108,
+            56.3602806
+          ],
+          [
+            -3.4325657,
+            56.3606175
+          ],
+          [
+            -3.4326675,
+            56.360895
+          ],
+          [
+            -3.4327392,
+            56.3611383
+          ],
+          [
+            -3.4327884,
+            56.3614138
+          ],
+          [
+            -3.4328167,
+            56.3617037
+          ],
+          [
+            -3.4328145,
+            56.3618556
+          ]
+        ]
+      },
+      "id": "way/430483108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/430483109",
+        "electrified": "no",
+        "gauge": "1435",
+        "name": "Edinburgh to Perth via Newburgh",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "CDC2",
+        "source": "GPS",
+        "tracks": "1",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.430939,
+            56.3579394
+          ],
+          [
+            -3.4306554,
+            56.3574838
+          ],
+          [
+            -3.4304927,
+            56.3571991
+          ],
+          [
+            -3.4302068,
+            56.3566781
+          ]
+        ]
+      },
+      "id": "way/430483109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/430483110",
+        "electrified": "no",
+        "gauge": "1435",
+        "name": "Edinburgh to Perth via Newburgh",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "CDC2",
+        "source": "GPS",
+        "tracks": "1",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.4302068,
+            56.3566781
+          ],
+          [
+            -3.430592,
+            56.357294
+          ],
+          [
+            -3.4309896,
+            56.3579298
+          ]
+        ]
+      },
+      "id": "way/430483110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/430483112",
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Edinburgh to Perth via Newburgh",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "CDC2",
+        "source": "GPS",
+        "tracks": "2",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.4328634,
+            56.3618558
+          ],
+          [
+            -3.4328614,
+            56.3619271
+          ]
+        ]
+      },
+      "id": "way/430483112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/430483113",
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Edinburgh to Perth via Newburgh",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "CDC2",
+        "source": "GPS",
+        "tracks": "2",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.430939,
+            56.3579394
+          ],
+          [
+            -3.4309484,
+            56.3579548
+          ],
+          [
+            -3.4314161,
+            56.3587231
+          ]
+        ]
+      },
+      "id": "way/430483113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/467782025",
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Edinburgh to Perth via Newburgh",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.1569299,
+            56.305872
+          ],
+          [
+            -3.1570302,
+            56.3059695
+          ]
+        ]
+      },
+      "id": "way/467782025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/467782026",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Tay Coast Line",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.1570302,
+            56.3059695
+          ],
+          [
+            -3.1571177,
+            56.3060547
+          ]
+        ]
+      },
+      "id": "way/467782026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/467782028",
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Edinburgh to Perth via Newburgh",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.1565676,
+            56.3055449
+          ],
+          [
+            -3.1566125,
+            56.305584
+          ]
+        ]
+      },
+      "id": "way/467782028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/467782029",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Edinburgh to Perth via Newburgh",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.1566125,
+            56.305584
+          ],
+          [
+            -3.156819,
+            56.305764
+          ],
+          [
+            -3.1568765,
+            56.30582
+          ],
+          [
+            -3.1569299,
+            56.305872
+          ]
+        ]
+      },
+      "id": "way/467782029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/547679475",
+        "electrified": "no",
+        "embankment": "yes",
+        "gauge": "1435",
+        "name": "Edinburgh to Perth via Newburgh",
+        "passenger_lines": "1",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "tracks": "1",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.3506692,
+            56.3370175
+          ],
+          [
+            -3.3583899,
+            56.338446
+          ],
+          [
+            -3.3639324,
+            56.3394494
+          ],
+          [
+            -3.377876,
+            56.3420145
+          ]
+        ]
+      },
+      "id": "way/547679475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/547679476",
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Edinburgh to Perth via Newburgh",
+        "passenger_lines": "1",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "tracks": "1",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.3505766,
+            56.3370013
+          ],
+          [
+            -3.3506692,
+            56.3370175
+          ]
+        ]
+      },
+      "id": "way/547679476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/837822841",
+        "electrified": "no",
+        "gauge": "1435",
+        "name": "Edinburgh to Perth via Newburgh",
+        "passenger_lines": "1",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "tracks": "1",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.377876,
+            56.3420145
+          ],
+          [
+            -3.3831252,
+            56.3429554
+          ],
+          [
+            -3.3845854,
+            56.3432172
+          ],
+          [
+            -3.389651,
+            56.3441187
+          ],
+          [
+            -3.3987957,
+            56.345779
+          ],
+          [
+            -3.4023965,
+            56.3464211
+          ]
+        ]
+      },
+      "id": "way/837822841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/969149156",
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Edinburgh to Perth via Newburgh",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "tracks": "1",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.2624147,
+            56.3456015
+          ],
+          [
+            -3.2625048,
+            56.3455836
+          ]
+        ]
+      },
+      "id": "way/969149156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/969149157",
+        "electrified": "no",
+        "gauge": "1435",
+        "name": "Edinburgh to Perth via Newburgh",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "tracks": "1",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.2573507,
+            56.3466475
+          ],
+          [
+            -3.2624147,
+            56.3456015
+          ]
+        ]
+      },
+      "id": "way/969149157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1011515998",
+        "electrified": "no",
+        "gauge": "1435",
+        "name": "Edinburgh to Perth via Newburgh",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.1369583,
+            56.2908148
+          ],
+          [
+            -3.1425736,
+            56.2949684
+          ]
+        ]
+      },
+      "id": "way/1011515998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1011515999",
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Edinburgh to Perth via Newburgh",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.1425736,
+            56.2949684
+          ],
+          [
+            -3.142671,
+            56.2950404
+          ]
+        ]
+      },
+      "id": "way/1011515999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1079838982",
+        "electrified": "no",
+        "gauge": "1435",
+        "name": "Edinburgh to Perth via Newburgh",
+        "passenger_lines": "1",
+        "railway": "rail",
+        "ref": "CDC1",
+        "source": "GPS",
+        "tracks": "1",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.4025626,
+            56.3464495
+          ],
+          [
+            -3.4035193,
+            56.3466218
+          ],
+          [
+            -3.404987,
+            56.346917
+          ],
+          [
+            -3.4063977,
+            56.3472556
+          ],
+          [
+            -3.4092049,
+            56.3479409
+          ]
+        ]
+      },
+      "id": "way/1079838982"
+    }
+  ]
+}

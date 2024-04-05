@@ -1,0 +1,201 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-04-05T14:48:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/5363139",
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "layer": "1",
+        "maxspeed": "20 mph",
+        "name": "East Coast Main Line",
+        "railway": "rail",
+        "railway:aws": "no",
+        "railway:etcs": "no",
+        "railway:lzb": "no",
+        "railway:pzb": "no",
+        "ref": "ECM9",
+        "usage": "main",
+        "voltage": "25000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.183163,
+            55.9527095
+          ],
+          [
+            -3.1834663,
+            55.9526744
+          ]
+        ]
+      },
+      "id": "way/5363139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/331825426",
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "maxspeed": "20 mph",
+        "name": "East Coast Main Line",
+        "railway": "rail",
+        "railway:aws": "no",
+        "railway:etcs": "no",
+        "railway:lzb": "no",
+        "railway:pzb": "no",
+        "ref": "ECM9",
+        "usage": "main",
+        "voltage": "25000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.1834663,
+            55.9526744
+          ],
+          [
+            -3.1836515,
+            55.9526562
+          ],
+          [
+            -3.1839281,
+            55.9526349
+          ]
+        ]
+      },
+      "id": "way/331825426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/331825432",
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "maxspeed": "20 mph",
+        "name": "East Coast Main Line",
+        "railway": "rail",
+        "railway:aws": "no",
+        "railway:etcs": "no",
+        "railway:lzb": "no",
+        "railway:pzb": "no",
+        "ref": "ECM8",
+        "usage": "main",
+        "voltage": "25000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.182724,
+            55.9528077
+          ],
+          [
+            -3.1822482,
+            55.9529311
+          ]
+        ]
+      },
+      "id": "way/331825432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/427170760",
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "layer": "1",
+        "maxspeed": "20 mph",
+        "name": "East Coast Main Line",
+        "railway": "rail",
+        "railway:aws": "no",
+        "railway:etcs": "no",
+        "railway:lzb": "no",
+        "railway:pzb": "no",
+        "ref": "ECM8",
+        "usage": "main",
+        "voltage": "25000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.183163,
+            55.9527095
+          ],
+          [
+            -3.1828255,
+            55.9527827
+          ],
+          [
+            -3.182724,
+            55.9528077
+          ]
+        ]
+      },
+      "id": "way/427170760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/427170763",
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "maxspeed": "20 mph",
+        "name": "East Coast Main Line",
+        "railway": "rail",
+        "railway:aws": "no",
+        "railway:etcs": "no",
+        "railway:lzb": "no",
+        "railway:pzb": "no",
+        "ref": "ECM9",
+        "usage": "main",
+        "voltage": "25000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.1839281,
+            55.9526349
+          ],
+          [
+            -3.1844687,
+            55.952616
+          ],
+          [
+            -3.1853402,
+            55.9525612
+          ],
+          [
+            -3.1856568,
+            55.9525405
+          ],
+          [
+            -3.1861482,
+            55.952511
+          ],
+          [
+            -3.1870367,
+            55.9524732
+          ]
+        ]
+      },
+      "id": "way/427170763"
+    }
+  ]
+}

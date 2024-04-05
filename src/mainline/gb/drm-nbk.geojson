@@ -1,0 +1,420 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-04-05T10:05:04Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4755794",
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "maxspeed": "25 mph",
+        "name": "North Berwick Line",
+        "passenger_lines": "1",
+        "railway": "rail",
+        "ref": "NBK",
+        "usage": "branch",
+        "voltage": "25000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.7308899,
+            56.056654
+          ],
+          [
+            -2.7313824,
+            56.056388
+          ],
+          [
+            -2.7320326,
+            56.0560367
+          ]
+        ]
+      },
+      "id": "way/4755794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/292190054",
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "maxspeed": "25 mph",
+        "name": "East Coast Main Line",
+        "railway": "rail",
+        "ref": "ECM8",
+        "service": "crossover",
+        "voltage": "25000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.7771074,
+            56.0063505
+          ],
+          [
+            -2.776728,
+            56.0064265
+          ],
+          [
+            -2.7763296,
+            56.0064992
+          ]
+        ]
+      },
+      "id": "way/292190054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/367384140",
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "maxspeed": "25 mph",
+        "name": "North Berwick Line",
+        "railway": "rail",
+        "ref": "NBK",
+        "usage": "branch",
+        "voltage": "25000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.7752693,
+            56.0066937
+          ],
+          [
+            -2.7760407,
+            56.0065457
+          ]
+        ]
+      },
+      "id": "way/367384140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/368243972",
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "maxspeed": "50 mph",
+        "name": "North Berwick Line",
+        "passenger_lines": "1",
+        "railway": "rail",
+        "ref": "NBK",
+        "usage": "branch",
+        "voltage": "25000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.7320326,
+            56.0560367
+          ],
+          [
+            -2.7327098,
+            56.0556853
+          ],
+          [
+            -2.7332843,
+            56.0553707
+          ],
+          [
+            -2.7343467,
+            56.054809
+          ],
+          [
+            -2.7384179,
+            56.0526699
+          ],
+          [
+            -2.7487668,
+            56.0472132
+          ],
+          [
+            -2.7502619,
+            56.046421
+          ],
+          [
+            -2.7514924,
+            56.0456741
+          ],
+          [
+            -2.7525873,
+            56.0449128
+          ],
+          [
+            -2.7536806,
+            56.0439352
+          ],
+          [
+            -2.7543271,
+            56.0433039
+          ],
+          [
+            -2.7549639,
+            56.0425902
+          ],
+          [
+            -2.7555378,
+            56.0418566
+          ],
+          [
+            -2.7564115,
+            56.0403978
+          ],
+          [
+            -2.7570331,
+            56.0390318
+          ],
+          [
+            -2.757736,
+            56.0366758
+          ]
+        ]
+      },
+      "id": "way/368243972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/368243980",
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "maxspeed": "25 mph",
+        "name": "North Berwick Line",
+        "passenger_lines": "1",
+        "railway": "rail",
+        "ref": "NBK",
+        "usage": "branch",
+        "voltage": "25000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.7644915,
+            56.0137791
+          ],
+          [
+            -2.7648385,
+            56.0127852
+          ],
+          [
+            -2.7655535,
+            56.0116804
+          ],
+          [
+            -2.7660058,
+            56.0111718
+          ],
+          [
+            -2.7664831,
+            56.0106678
+          ],
+          [
+            -2.7670414,
+            56.0101801
+          ],
+          [
+            -2.7676081,
+            56.0097204
+          ],
+          [
+            -2.7685099,
+            56.0091604
+          ],
+          [
+            -2.7697701,
+            56.0084684
+          ],
+          [
+            -2.770969,
+            56.0079254
+          ],
+          [
+            -2.7723467,
+            56.0074178
+          ],
+          [
+            -2.7734198,
+            56.0070957
+          ],
+          [
+            -2.7739285,
+            56.0069596
+          ],
+          [
+            -2.774188,
+            56.0068951
+          ],
+          [
+            -2.7744811,
+            56.0068337
+          ],
+          [
+            -2.7750258,
+            56.0067271
+          ]
+        ]
+      },
+      "id": "way/368243980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/368243981",
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "maxspeed": "40 mph",
+        "name": "North Berwick Line",
+        "railway": "rail",
+        "ref": "NBK",
+        "usage": "branch",
+        "voltage": "25000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.7750258,
+            56.0067271
+          ],
+          [
+            -2.7752693,
+            56.0066937
+          ]
+        ]
+      },
+      "id": "way/368243981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/479038981",
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "maxspeed": "50 mph",
+        "name": "North Berwick Line",
+        "passenger_lines": "1",
+        "railway": "rail",
+        "ref": "NBK",
+        "usage": "branch",
+        "voltage": "25000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.7578073,
+            56.0364106
+          ],
+          [
+            -2.7581743,
+            56.0352167
+          ],
+          [
+            -2.7594794,
+            56.0308862
+          ],
+          [
+            -2.7619976,
+            56.0224604
+          ],
+          [
+            -2.7638675,
+            56.0159334
+          ],
+          [
+            -2.7642808,
+            56.0144807
+          ],
+          [
+            -2.7644915,
+            56.0137791
+          ]
+        ]
+      },
+      "id": "way/479038981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/479038982",
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "maxspeed": "50 mph",
+        "name": "North Berwick Line",
+        "passenger_lines": "1",
+        "railway": "rail",
+        "ref": "NBK",
+        "usage": "branch",
+        "voltage": "25000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.757736,
+            56.0366758
+          ],
+          [
+            -2.7578073,
+            56.0364106
+          ]
+        ]
+      },
+      "id": "way/479038982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/909216456",
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "maxspeed": "25 mph",
+        "name": "North Berwick Line",
+        "passenger_lines": "1",
+        "railway": "rail",
+        "ref": "NBK",
+        "usage": "branch",
+        "voltage": "25000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.7302671,
+            56.0570448
+          ],
+          [
+            -2.7303444,
+            56.0569963
+          ],
+          [
+            -2.7308899,
+            56.056654
+          ]
+        ]
+      },
+      "id": "way/909216456"
+    }
+  ]
+}
